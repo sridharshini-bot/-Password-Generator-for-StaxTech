@@ -2,7 +2,6 @@ import string
 import secrets
 
 def speak(text):
-    # Simulates a voice assistant by printing what it would "say"
     print(f"[Assistant]: {text}")
 
 def get_boolean_input(prompt):
